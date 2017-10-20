@@ -70,7 +70,7 @@ int main(void)
 
   /* USER CODE BEGIN 1 */
   uint32_t i;
-  float a=0., c=100000., b=0.10;
+  float a=0., c=100., b=0.10;
   /* USER CODE END 1 */
 
   /* MCU Configuration----------------------------------------------------------*/
@@ -107,7 +107,7 @@ int main(void)
   /* USER CODE BEGIN 3 */
 	  HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
 	  for (i=0;i<100000;i++)
-		  a=b*c;
+		  a=b+c;
   }
   /* USER CODE END 3 */
 
