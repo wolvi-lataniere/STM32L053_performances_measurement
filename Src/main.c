@@ -70,7 +70,7 @@ int main(void)
 
   /* USER CODE BEGIN 1 */
   uint32_t i;
-  int32_t a=0, c=100000, b=10;
+  float a=0., c=100000., b=0.10;
   /* USER CODE END 1 */
 
   /* MCU Configuration----------------------------------------------------------*/
