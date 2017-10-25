@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=/media/sf_Code/STM32/L0_2DOrientationKalman/L0_2DOrientationKalman/Inc
+HeaderPath=/media/sf_Code/stm/Projets/L0_2DOrientationKalman/L0_2DOrientationKalman/Inc
 HeaderFiles=gpio.h;i2c.h;usart.h;stm32l0xx_it.h;stm32l0xx_hal_conf.h;main.h;
-SourcePath=/media/sf_Code/STM32/L0_2DOrientationKalman/L0_2DOrientationKalman/Src
+SourcePath=/media/sf_Code/stm/Projets/L0_2DOrientationKalman/L0_2DOrientationKalman/Src
 SourceFiles=gpio.h;i2c.h;usart.h;stm32l0xx_it.h;stm32l0xx_hal_conf.h;main.h;gpio.c;i2c.c;usart.c;stm32l0xx_it.c;stm32l0xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]
